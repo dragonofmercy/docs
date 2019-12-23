@@ -18,5 +18,4 @@ and policies ([Firefox Add-on Policies](https://developer.mozilla.org/Add-ons/AM
 [Google Chrome Web Store Developer Agreement](https://developer.chrome.com/webstore/terms) and 
 [Developer Program Policies for Chrome](https://developer.chrome.com/webstore/program_policies), 
 [Windows App Developer Agreement](https://docs.microsoft.com/en-us/legal/windows/agreements/app-developer-agreement) 
-and [Edge Extension Policy for Edge](https://docs.microsoft.com/en-us/microsoft-edge/extensions/microsoft-browser-extension-policy)
-) they wouldn't pass reviews and would be rejected.
+and [Edge Extension Policy for Edge](https://docs.microsoft.com/en-us/microsoft-edge/extensions/microsoft-browser-extension-policy)) they wouldn't pass reviews and would be rejected.
